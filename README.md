@@ -1,5 +1,5 @@
 # 🧠 Deep Learning
-Assignments and presentation developed in the scope of the Deep Learning discipline, taught by Professor Dário Oliveira (FGV EMAp). Co-authored by [@anacarolerthal](https://github.com/anacarolerthal), whom I thank for the ongoing partnership.
+Assignments and presentation developed in the scope of the Deep Learning discipline, taught by Professor Dário Oliveira (FGV EMAp). Co-authored with [@anacarolerthal](https://github.com/anacarolerthal), whom I thank for the ongoing partnership.
 
 [**Assignment 1:**](assignment01) Transfer Learning (10/10)
 
